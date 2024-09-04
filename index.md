@@ -3,9 +3,11 @@ layout: home
 title: "Hi"
 ---
 
+### About Me
+
 Hi, I'm Hemal, a passionate dev with a keen interest in data and fintech.
 
-- [Check out my blogs](https://dev.to/hemalmamtora)
+- Check out my [blogs](https://dev.to/hemalmamtora)
 - **Current Position**: Sofware Engineer @ Perfios Software Solutions Pvt Ltd
 - **Previous Position**: Software Engineer Intern @ Meta
 - **Education**: Master of Computer Science @ Texas A&M University
