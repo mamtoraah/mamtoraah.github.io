@@ -16,4 +16,4 @@ Hi, I'm Hemal, a passionate dev with a keen interest in data and fintech.
 - Currently pondering deep questsions of life like:
   - Why do programmers prefer dark mode? Because light attracts bugs!
   - I interned @facebook (meta), I'm interested in physics: so meta + physics: metaphysics is the way to go?
-- Feel free to explore my [githb repos](https:github.com/mamtoraah) and get in [touch](mailto:hemal.ai.codes@gmail.com) if you have any questions or collaboration ideas!
+- Feel free to explore my [github repos](https:github.com/mamtoraah) and get in [touch](mailto:hemal.ai.codes@gmail.com) if you have any questions or collaboration ideas!
